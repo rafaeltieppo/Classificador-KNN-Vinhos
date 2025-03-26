@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 PROJETO KNN: CLASSIFICADOR DE VINHOS
-Autor: [Seu Nome]
 Descrição: Classifica vinhos em 'tinto' ou 'branco' baseado em características químicas
 """
 
